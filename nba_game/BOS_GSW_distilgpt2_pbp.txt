@@ -1,0 +1,849 @@
+1 11:45 0-0 K. Looney misses 2-pt layup from 4 ft (block by R. Williams)
+1 11:43 0-0 Defensive rebound by J. Hart
+1 11:32 0-0 Turnover by J. Clarkson (bad pass; steal by J. Poole)
+1 11:18 0-0 Personal foul by K. Looney (drawn by J. Poole)
+1 11:14 0-0 J. Poole misses 2-pt jump shot from 13 ft
+1 11:11 0-0 Defensive rebound by K. Looney
+1 10:57 0-0 R. Williams misses 3-pt jump shot from 25 ft
+1 10:54 0-0 Defensive rebound by R. Langford
+1 10:45 0-0 J. Clarkson misses 2-pt jump shot from 9 ft
+1 10:43 0-0 Defensive rebound by K. Looney
+1 10:30 0-0 Personal foul by J. Poole (drawn by D. Lee)
+1 10:30 0-0 A. Wiggins enters the game for G. Payton
+1 10:15 0-0 M. Moody misses 3-pt jump shot from 27 ft
+1 10:13 0-0 Defensive rebound by Team
+1 9:03 0-0 Turnover by K. Looney (bad pass; steal by R. Langford)
+1 9:00 0-0 D. Lee misses 2-pt jump shot from 19 ft
+1 8:57 0-0 Defensive rebound by R. Langford
+1 8:46 0-0 Personal foul by K. Looney (drawn by J. Clarkson)
+1 8:45 0-0 Violation by Team (kicked ball)
+1 8:33 0-0 J. Poole misses 2-pt jump shot from 6 ft
+1 8:31 0-0 Offensive rebound by Team
+1 8:27 0-0 Turnover by K. Looney (offensive foul)
+1 8:23 0-0 A. Wiggins misses 2-pt jump shot from 19 ft
+1 8:22 0-0 Offensive rebound by K. Looney
+1 8:21 0-0 J. Poole misses 2-pt layup from 2 ft (block by K. Looney)
+1 8:18 0-0 Defensive rebound by R. Langford
+1 8:11 0-0 Shooting foul by R. Langford (drawn by R. Langford)
+1 8:11 0-0 R. Langford misses free throw 1 of 1
+1 8:09 0-0 Defensive rebound by R. Langford
+1 8:09 0-0 R. Langford misses free throw 2 of 1
+1 8:08 0-0 Offensive rebound by Team
+1 8:05 0-0 Shooting foul by K. Looney (drawn by D. Lee)
+1 8:05 0-0 D. Lee misses free throw 1 of 2
+1 8:05 0-0 Offensive rebound by Team
+1 8:05 0-0 D. Lee misses free throw 2 of 2
+1 8:02 0-0 Defensive rebound by K. Looney
+1 8:01 0-0 Personal foul by J. Clarkson (drawn by D. Lee)
+1 7:51 0-0 Shooting foul by K. Looney (drawn by D. Lee)
+1 7:51 0-0 D. Lee misses free throw 1 of 2
+1 7:51 0-0 Offensive rebound by Team
+1 7:51 0-0 D. Lee misses free throw 2 of 2
+1 7:49 0-0 Defensive rebound by K. Looney
+1 7:46 0-0 Turnover by D. Lee (bad pass; steal by K. Looney)
+1 7:31 0-0 J. Poole misses 3-pt jump shot from 26 ft
+1 7:29 0-0 Defensive rebound by A. Wiggins
+1 7:19 2-0 K. Looney makes 2-pt layup from 4 ft (assist by D. Lee)
+1 7:12 2-0 J. Poole misses 2-pt jump shot from 16 ft
+1 7:09 2-0 Offensive rebound by Team
+1 7:06 2-0 R. Langford misses 2-pt jump shot from 16 ft
+1 7:02 2-0 Offensive rebound by R. Langford
+1 7:02 2-0 R. Langford misses 2-pt jump shot from 7 ft
+1 7:01 2-0 Defensive rebound by M. Moody
+1 7:00 2-0 R. Langford misses 2-pt layup from 3 ft
+1 7:00 2-0 Offensive rebound by Team
+1 7:00 2-0 R. Langford misses 3-pt jump shot from 24 ft1 7:00 2-0 R. Langford misses 2-pt layup from 3 ft
+1 7:00 2-0 Offensive rebound by Team
+1 7:00 2-0 R. Langford misses 3-pt jump shot from 24 ft
+1 6:58 2-0 Defensive rebound by L. Dončić
+1 6:38 2-2 L. Dončić makes 3-pt jump shot from 23 ft (assist by D. Schröder)
+1 6:23 5-2 J. Holiday makes 2-pt layup from 3 ft (assist by J. Tatum)
+1 6:11 5-2 Turnover by S. Dinwiddie (lost ball; steal by J. Holiday)
+1 6:09 5-2 Turnover by S. Dinwiddie (lost ball; steal by M. Smart)
+1 5:51 5-2 M. Smart misses 2-pt jump shot from 8 ft
+1 5:49 5-2 Defensive rebound by D. Schröder
+1 5:35 5-2 R. Langford misses 2-pt layup from 2 ft
+1 5:32 5-2 Defensive rebound by D. Schröder
+1 5:15 5-2 D. Schröder misses 2-pt layup from 3 ft
+1 5:12 5-2 Defensive rebound by J. Tatum
+1 5:00 5-2 J. Holiday misses 2-pt jump shot from 18 ft
+1 5:00 5-2 Offensive rebound by L. Dončić
+1 4:59 5-2 D. Schröder misses 2-pt layup from 6 ft
+1 4:57 5-2 Defensive rebound by L. Dončić
+1 4:55 5-2 D. Schröder misses 2-pt layup from 5 ft
+1 4:55 5-2 Offensive rebound by L. Dončić
+1 4:53 5-2 Turnover by L. Dončić (bad pass; steal by R. Langford)
+1 4:51 5-2 S. Dinwiddie misses 2-pt layup from 5 ft
+1 4:49 5-2 Offensive rebound by J. Tatum
+1 4:45 5-2 J. Tatum misses 2-pt layup from 2 ft
+1 4:45 5-2 Offensive rebound by M. Smart
+1 4:42 5-2 D. Schröder misses 3-pt jump shot from 23 ft
+1 4:39 5-2 Offensive rebound by M. Smart
+1 4:35 5-2 Shooting foul by M. Smart (drawn by D. Schröder)
+1 4:35 5-2 D. Schröder misses free throw 1 of 2
+1 4:35 5-2 Offensive rebound by Team
+1 4:35 5-2 D. Schröder misses free throw 2 of 2
+1 4:32 5-2 Offensive rebound by L. Dončić
+1 4:23 5-2 D. Schröder misses 2-pt layup from 3 ft (block by L. Dončić)
+1 4:19 5-2 Offensive rebound by L. Dončić
+1 4:17 5-2 L. Dončić misses 2-pt layup from 3 ft (block by D. Schröder)
+1 4:17 5-2 Offensive rebound by L. Dončić
+1 4:13 5-2 L. Dončić misses 3-pt jump shot from 24 ft
+1 4:11 5-2 Defensive rebound by R. Langford
+1 4:05 5-2 Shooting foul by T. Harris (drawn by L. Dončić)
+1 4:05 5-2 L. Dončić misses free throw 1 of 2
+1 4:05 5-2 Offensive rebound by Team
+1 4:05 5-2 Loose ball foul by D. Schröder (drawn by J. Tatum)
+1 4:05 5-2 D. Schröder misses free throw 2 of 2
+1 3:59 5-2 Defensive rebound by J. Brown
+1 3:57 5-2 J. Brown misses 2-pt layup from 5 ft
+1 3:55 5-2 Offensive rebound by L. Dončić
+1 3:57 5-2 J. Tatum misses free throw 3 of 2
+1 3:48 5-2 Offensive rebound by D. Schröder
+1 3:43 5-2 Offensive rebound by D. Schröder
+1 3:41 5-2 M. Smart misses 2-pt layup from 6 ft
+1 3:40 5-2 Offensive rebound by D. Schröder1 3:43 5-2 Offensive rebound by D. Schröder
+1 3:41 5-2 M. Smart misses 2-pt layup from 6 ft
+1 3:40 5-2 Offensive rebound by D. Schröder
+1 3:35 5-2 Turnover by D. Schröder (lost ball; steal by A. Horford)
+1 3:21 5-2 Turnover by D. Schröder (bad pass; steal by R. Williams)
+1 3:12 5-2 Personal foul by D. Schröder (drawn by A. Horford)
+1 3:06 5-2 M. Smart misses 3-pt jump shot from 28 ft
+1 3:03 5-2 Offensive rebound by R. Williams
+1 3:03 5-2 R. Williams misses 2-pt layup at rim
+1 2:58 5-2 Offensive rebound by R. Williams
+1 2:52 7-2 R. Williams makes 2-pt dunk at rim
+1 2:49 7-4 D. Schröder makes 2-pt jump shot from 19 ft
+1 2:32 7-4 T. Bradley misses 3-pt jump shot from 25 ft
+1 2:30 7-4 Defensive rebound by D. Schröder
+1 2:30 7-4 Shooting foul by T. Bradley (drawn by A. Horford)
+1 2:30 7-4 A. Horford misses free throw 1 of 2
+1 2:30 7-4 Offensive rebound by Team
+1 2:30 7-4 A. Horford misses free throw 2 of 2
+1 2:22 7-4 Defensive rebound by A. Horford
+1 2:14 7-4 J. Richardson misses 3-pt jump shot from 28 ft
+1 2:12 7-4 Defensive rebound by D. Schröder
+1 2:09 7-4 Turnover by J. Richardson (bad pass; steal by G. Williams)
+1 2:07 7-4 A. Horford misses 2-pt layup from 6 ft (block by A. Horford)
+1 2:05 7-4 Offensive rebound by A. Horford
+1 2:05 7-4 Turnover by J. Brown (lost ball; steal by G. Williams)
+1 2:01 7-4 R. Williams misses 3-pt jump shot from 25 ft
+1 2:01 7-4 Defensive rebound by G. Williams
+1 2:01 7-4 J. Richardson misses 3-pt jump shot from 25 ft
+1 2:01 7-4 Defensive rebound by R. Williams
+1 2:00 7-4 Personal foul by A. Horford (drawn by M. Smart)
+1 2:00 7-4 M. Smart makes free throw 1 of 2
+1 2:00 7-4 R. Williams makes free throw 2 of 2
+1 2:00 7-4 D. Schröder makes 2-pt dunk from 1 ft (assist by J. Richardson)
+1 1:48 7-4 S. Curry makes 3-pt jump shot from 25 ft (assist by A. Horford)
+1 1:47 7-4 Shooting foul by R. Williams (drawn by M. Smart)
+1 1:47 7-4 M. Smart misses free throw 1 of 2
+1 1:47 7-4 Offensive rebound by Team
+1 1:47 7-4 M. Smart misses free throw 2 of 2
+1 1:47 7-4 Defensive rebound by J. Brown
+1 1:36 7-4 D. Schröder misses 3-pt jump shot from 26 ft
+1 1:33 7-4 Defensive rebound by M. Smart
+1 1:24 7-4 Turnover by D. Schröder (bad pass; steal by D. Schröder)
+1 1:22 7-4 Shooting foul by S. Curry (drawn by J. Richardson)
+1 1:24 7-4 J. Richardson misses free throw 1 of 2
+1 1:22 7-4 Offensive rebound by Team
+1 1:22 7-4 Turnover by Team (shot clock)
+1 1:15 7-4 Turnover by M. Smart (bad pass; steal by A. Horford)
+1 1:11 7-4 J. Richardson misses 2-pt jump shot from 20 ft
+1 1:08 7-4 Offensive rebound by M. Smart
+1 1:07 7-4 Turnover by M. Smart (bad pass; steal by J. Brown)
+1 1:02 7-4 A. Horford misses 2-pt jump shot from 16 ft
+1 1:01 7-4 Defensive rebound by D. Schröder
+1 1:00 7-4 Turnover by M. Smart (lost ball; steal by J. Richardson)1 1:02 7-4 A. Horford misses 2-pt jump shot from 16 ft
+1 1:01 7-4 Defensive rebound by D. Schröder
+1 1:00 7-4 Turnover by M. Smart (lost ball; steal by J. Richardson)
+1 0:57 7-4 D. Schröder misses 2-pt layup from 6 ft (block by R. Williams)
+1 0:56 7-4 Defensive rebound by G. Williams
+1 0:48 7-6 R. Williams makes 3-pt jump shot from 27 ft (assist by J. Richardson)
+1 0:28 7-6 J. Richardson misses 2-pt layup from 6 ft
+1 0:26 7-6 Defensive rebound by J. Tatum
+1 0:26 7-6 Shooting foul by J. Tatum (drawn by M. Smart)
+1 0:26 7-6 M. Smart misses free throw 1 of 2
+1 0:26 7-6 Offensive rebound by Team
+1 0:26 7-7 M. Smart makes free throw 2 of 2
+1 0:06 7-7 J. Tatum misses 2-pt jump shot from 12 ft
+1 0:03 7-7 Defensive rebound by J. Tatum
+1 0:02 7-9 G. Williams makes 2-pt layup from 4 ft (assist by J. Tatum)
+1 0:02 7-9 Violation by Team (kicked ball)
+1 0:02 7-9 A. Horford enters the game for M. Smart
+1 0:02 7-9 R. Williams misses free throw 3 of 2
+1 0:00 7-9 Offensive rebound by Team
+1 0:00 7-9 End of 1st quarter
+2 11:44 8-9 M. Smart makes 2-pt layup from 6 ft
+2 11:25 8-9 A. Horford misses 2-pt jump shot from 15 ft
+2 11:22 8-9 Defensive rebound by M. Smart
+2 11:11 8-9 Shooting foul by J. Tatum (drawn by J. Tatum)
+2 11:11 8-9 J. Tatum misses free throw 1 of 2
+2 11:11 8-9 Offensive rebound by Team
+2 11:11 8-9 J. Tatum misses free throw 2 of 2
+2 11:08 8-9 Offensive rebound by T. Maxey
+2 11:02 8-9 J. Richardson misses 3-pt jump shot from 28 ft
+2 11:01 8-9 Defensive rebound by T. Maxey
+2 10:57 8-9 Shooting foul by J. Tatum (drawn by J. Tatum)
+2 10:57 8-9 J. Tatum misses free throw 1 of 2
+2 10:57 8-9 Offensive rebound by Team
+2 10:57 8-9 J. Tatum makes free throw 2 of 2
+2 10:47 8-9 A. Horford misses 3-pt jump shot from 26 ft
+2 10:44 8-9 Defensive rebound by M. Smart
+2 10:34 10-9 A. Horford misses 3-pt jump shot from 23 ft
+2 10:31 10-9 Offensive rebound by D. Schröder
+2 10:31 10-9 Turnover by M. Smart (lost ball; steal by A. Horford)
+2 10:29 10-9 Defensive rebound by D. Schröder
+2 10:20 10-9 R. Williams misses 2-pt layup from 4 ft (block by J. Tatum)
+2 10:20 10-9 Defensive rebound by M. Smart
+2 10:19 10-9 Personal foul by J. Richardson (drawn by R. Williams)
+2 10:07 10-9 A. Horford misses 2-pt jump shot from 13 ft
+2 10:03 10-9 Defensive rebound by J. Brown
+2 9:50 10-9 J. Brown misses 2-pt jump shot from 19 ft
+2 9:45 10-9 Defensive rebound by G. Williams
+2 9:31 10-9 Turnover by R. Williams (out of bounds lost ball)
+2 9:31 10-9 R. Williams misses 3-pt jump shot from 26 ft
+2 9:30 10-9 Offensive rebound by A. Horford
+2 9:19 10-9 Turnover by D. Schröder (out of bounds lost ball)
+2 9:14 10-9 Turnover by M. Smart (out of bounds lost ball)
+2 9:07 10-9 G. Williams misses 3-pt jump shot from 24 ft
+2 9:06 10-9 Defensive rebound by J. Richardson2 9:14 10-9 Turnover by M. Smart (out of bounds lost ball)
+2 9:07 10-9 G. Williams misses 3-pt jump shot from 24 ft
+2 9:06 10-9 Defensive rebound by J. Richardson
+2 8:48 10-9 Shooting foul by J. Brown (drawn by A. Horford)
+2 8:48 10-9 A. Horford misses free throw 1 of 2
+2 8:48 10-9 Offensive rebound by Team
+2 8:48 10-10 A. Horford makes free throw 2 of 2
+2 8:36 10-10 Shooting foul by R. Williams (drawn by T. Young)
+2 8:36 11-10 T. Young makes free throw 1 of 2
+2 8:36 12-10 T. Young makes free throw 2 of 2
+2 8:17 12-10 Personal foul by R. Williams (drawn by D. Schröder)
+2 8:17 12-10 M. Smart enters the game for J. Brown
+2 8:17 13-10 D. Schröder makes free throw 3 of 2
+2 8:00 13-10 A. Horford misses 2-pt layup from 3 ft
+2 7:58 13-10 Offensive rebound by M. Smart
+2 7:56 13-10 M. Smart misses 2-pt jump shot from 10 ft
+2 7:54 13-10 Defensive rebound by J. Brown
+2 7:54 13-10 T. Young misses 2-pt layup from 3 ft
+2 7:52 13-10 Offensive rebound by M. Smart
+2 7:49 13-10 Shooting foul by M. Smart (drawn by J. Brown)
+2 7:49 14-10 J. Brown makes free throw 1 of 2
+2 7:49 14-10 J. Brown makes free throw 2 of 2
+2 7:44 14-10 Turnover by J. Brown (bad pass; steal by A. Horford)
+2 7:44 15-10 J. Brown makes free throw 3 of 2
+2 7:42 15-10 J. Brown misses 2-pt layup from 5 ft (block by J. Tatum)
+2 7:39 15-10 Offensive rebound by Team
+2 7:36 15-10 M. Smart misses 2-pt jump shot from 9 ft
+2 7:35 15-10 Offensive rebound by J. Brown
+2 7:33 15-10 M. Smart misses 3-pt jump shot from 26 ft
+2 7:33 15-10 Defensive rebound by J. Brown
+2 7:28 15-10 M. Smart misses 3-pt jump shot from 27 ft
+2 7:26 15-10 Defensive rebound by J. Brown
+2 7:20 17-10 J. Brown makes 2-pt layup at rim
+2 7:04 17-10 J. Brown misses 2-pt jump shot from 17 ft
+2 7:01 17-10 Defensive rebound by J. Brown
+2 7:00 17-10 J. Tatum makes 2-pt jump shot from 17 ft
+2 6:55 17-10 T. Young misses 2-pt jump shot from 14 ft
+2 6:51 17-10 Defensive rebound by J. Brown
+2 6:45 17-10 J. Brown misses 2-pt layup from 4 ft
+2 6:42 17-10 Offensive rebound by D. Schröder
+2 6:41 17-10 Turnover by J. Brown (bad pass; steal by D. Schröder)
+2 6:39 17-10 J. Brown misses 2-pt layup from 2 ft
+2 6:38 17-10 Defensive rebound by M. Smart
+2 6:34 17-10 D. Schröder misses 2-pt layup from 3 ft
+2 6:32 17-10 Offensive rebound by Team
+2 6:31 17-10 D. Schröder misses 2-pt layup at rim
+2 6:30 17-10 Offensive rebound by M. Smart
+2 6:29 17-10 Turnover by M. Smart (bad pass; steal by D. Schröder)
+2 6:22 17-10 J. Brown misses 2-pt layup at rim
+2 6:19 17-10 Offensive rebound by D. Schröder
+2 6:19 17-10 Turnover by M. Smart (lost ball; steal by J. Brown)
+2 6:16 17-10 Shooting foul by J. Brown (drawn by J. Brown)
+2 6:19 17-10 J. Brown misses free throw 1 of 2
+2 6:14 17-10 Defensive rebound by A. Horford
+2 6:14 17-10 D. Schröder misses 2-pt layup from 4 ft (block by A. Horford)2 6:19 17-10 J. Brown misses free throw 1 of 2
+2 6:14 17-10 Defensive rebound by A. Horford
+2 6:14 17-10 D. Schröder misses 2-pt layup from 4 ft (block by A. Horford)
+2 6:09 17-10 Defensive rebound by J. Brown
+2 5:59 17-10 Turnover by J. Brown (lost ball; steal by S. Hauser)
+2 5:56 17-10 Shooting foul by D. Schröder (drawn by R. Williams)
+2 5:56 18-10 R. Williams makes free throw 1 of 2
+2 5:56 18-11 R. Williams makes free throw 2 of 2
+2 5:44 18-11 D. Schröder misses 2-pt jump shot from 19 ft
+2 5:41 18-11 Defensive rebound by Team
+2 5:34 19-11 J. Tatum misses 3-pt jump shot from 28 ft
+2 5:30 19-11 Defensive rebound by A. Horford
+2 5:17 19-11 Turnover by D. Schröder (bad pass; steal by S. Hauser)
+2 5:17 19-11 D. Schröder misses 3-pt jump shot from 28 ft
+2 5:13 19-11 Defensive rebound by J. Tatum
+2 4:54 19-11 Turnover by J. Brown (bad pass; steal by S. Hauser)
+2 4:48 19-11 Personal take foul by G. Williams (drawn by D. Schröder)
+2 4:48 19-11 R. Williams misses free throw 1 of 2
+2 4:48 19-11 Offensive rebound by Team
+2 4:48 19-11 Turnover by Team (shot clock)
+2 4:48 19-11 C. Capela enters the game for A. Horford
+2 4:44 19-11 J. Brown misses free throw 2 of 2
+2 4:38 19-11 Defensive rebound by M. Smart
+2 4:33 19-11 J. Tatum misses 3-pt jump shot from 28 ft
+2 4:33 19-11 Defensive rebound by G. Williams
+2 4:28 19-11 J. Tatum misses 2-pt jump shot from 18 ft
+2 4:24 19-11 Defensive rebound by D. Schröder
+2 4:20 19-11 J. Tatum makes 2-pt layup from 2 ft
+2 4:07 19-11 M. Smart misses 2-pt jump shot from 8 ft
+2 4:06 19-11 Defensive rebound by A. Horford
+2 4:00 19-11 Shooting foul by C. Capela (drawn by A. Horford)
+2 4:00 19-11 A. Horford misses free throw 1 of 2
+2 4:00 19-11 Offensive rebound by Team
+2 4:00 19-11 J. Brown misses free throw 2 of 2
+2 4:00 19-11 Offensive rebound by Team
+2 4:00 19-11 D. Schröder misses free throw 3 of 2
+2 4:00 19-11 Offensive rebound by Team
+2 4:00 19-11 D. Schröder misses free throw 4 of 2
+2 4:00 19-11 Offensive rebound by Team
+2 4:00 19-11 A. Horford misses free throw 5 of 2
+2 4:00 19-11 Defensive rebound by M. Smart
+2 3:52 19-11 Personal foul by M. Smart (drawn by J. Brown)
+2 3:52 19-11 D. Schröder misses free throw 6 of 2
+2 3:50 19-11 Defensive rebound by D. Schröder
+2 3:52 19-11 J. Brown misses 2-pt layup from 2 ft
+2 3:48 19-11 Defensive rebound by S. Hauser
+2 3:45 19-11 Turnover by D. Schröder (lost ball; steal by J. Brown)
+2 3:33 19-11 Turnover by C. Capela (lost ball; steal by R. Williams)
+2 3:31 19-11 Personal foul by J. Brown (drawn by J. Tatum)
+2 3:28 19-11 S. Hauser misses 2-pt layup from 3 ft
+2 3:27 19-11 Defensive rebound by J. Tatum
+2 3:22 19-11 J. Brown misses 2-pt jump shot from 6 ft
+2 3:20 19-11 Defensive rebound by D. Schröder
+2 3:21 19-11 Personal foul by M. Smart (drawn by C. Capela)2 3:22 19-11 J. Brown misses 2-pt jump shot from 6 ft
+2 3:20 19-11 Defensive rebound by D. Schröder
+2 3:21 19-11 Personal foul by M. Smart (drawn by C. Capela)
+2 3:21 19-11 S. Hauser enters the game for M. Smart
+2 3:21 19-11 R. Williams enters the game for J. Brown
+2 3:09 19-11 R. Williams misses 2-pt jump shot from 18 ft
+2 3:06 19-11 Defensive rebound by A. Horford
+2 2:51 19-11 R. Williams misses 3-pt jump shot from 23 ft
+2 2:48 19-11 Defensive rebound by J. Brown
+2 2:45 19-11 S. Hauser misses 3-pt jump shot from 26 ft
+2 2:43 19-11 Defensive rebound by A. Horford
+2 2:28 19-11 Turnover by R. Williams (lost ball; steal by J. Brown)
+2 2:27 19-11 J. Brown misses 3-pt jump shot from 27 ft
+2 2:24 19-11 Defensive rebound by R. Williams
+2 2:18 19-11 Turnover by S. Hauser (lost ball; steal by J. Brown)
+2 2:00 19-11 Turnover by J. Brown (bad pass)
+2 1:49 19-11 Shooting foul by J. Brown (drawn by M. Smart)
+2 1:49 19-11 M. Smart misses free throw 1 of 2
+2 1:49 19-11 Offensive rebound by Team
+2 1:49 19-11 M. Smart misses free throw 2 of 2
+2 1:44 19-11 Defensive rebound by D. Schröder
+2 1:44 19-11 J. Brown misses free throw 3 of 2
+2 1:42 19-11 Defensive rebound by R. Williams
+2 1:35 19-11 Turnover by C. Capela (bad pass; steal by D. Schröder)
+2 1:29 19-11 J. Brown misses 2-pt layup from 5 ft
+2 1:26 19-11 Defensive rebound by J. Brown
+2 1:25 19-11 Personal take foul by J. Tatum (drawn by A. Horford)
+2 1:25 19-11 Turnover by D. Schröder (offensive foul)
+2 1:22 19-11 A. Horford misses 2-pt layup from 2 ft
+2 1:20 19-11 Defensive rebound by R. Williams
+2 1:20 19-11 Defensive rebound by J. Brown
+2 1:12 19-11 Turnover by J. Tatum (bad pass; steal by D. Schröder)
+2 1:09 19-11 J. Brown misses 3-pt jump shot from 25 ft
+2 1:06 19-11 Defensive rebound by J. Tatum
+2 1:00 19-11 J. Tatum misses 2-pt layup from 2 ft
+2 1:00 19-11 Offensive rebound by Team
+2 1:00 19-11 P. Pritchard enters the game for A. Horford
+2 1:00 19-11 P. Pritchard misses 2-pt layup at rim
+2 1:00 19-11 Offensive rebound by Team
+2 1:00 19-11 C. Capela misses 2-pt layup from 3 ft
+2 1:00 19-11 Offensive rebound by Team
+2 1:00 19-11 M. Smart misses 2-pt layup from 1 ft
+2 1:00 19-11 Offensive rebound by J. Tatum
+2 1:00 19-11 Turnover by J. Brown (lost ball; steal by M. Smart)
+2 1:00 19-11 Turnover by J. Tatum (bad pass; steal by J. Tatum)
+2 0:56 19-11 D. Schröder misses 2-pt layup from 2 ft (block by M. Smart)
+2 0:52 19-11 Offensive rebound by Team
+2 0:47 19-11 Personal foul by A. Horford (drawn by J. Brown)
+2 0:47 19-11 P. Pritchard misses 2-pt layup at rim
+2 0:43 19-11 Offensive rebound by D. Schröder
+2 0:45 19-11 Turnover by D. Schröder (offensive foul)
+2 0:38 19-11 Turnover by D. Schröder (lost ball; steal by P. Pritchard)
+2 0:30 19-11 Golden State full timeout
+2 0:38 19-11 D. Schröder misses 2-pt layup from 2 ft2 0:38 19-11 Turnover by D. Schröder (lost ball; steal by P. Pritchard)
+2 0:30 19-11 Golden State full timeout
+2 0:38 19-11 D. Schröder misses 2-pt layup from 2 ft
+2 0:28 19-11 Defensive rebound by J. Randle
+2 0:10 19-11 J. Randle misses 2-pt layup from 2 ft (block by D. Schröder)
+2 0:07 19-11 Defensive rebound by J. Brown
+2 0:00 19-11 End of 2nd quarter
+3 11:40 19-11 Shooting foul by A. Wiggins (drawn by J. Brown)
+3 11:40 20-11 J. Brown makes free throw 1 of 2
+3 11:40 21-11 J. Brown makes free throw 2 of 2
+3 11:20 21-11 Turnover by J. Brown (lost ball; steal by D. Schröder)
+3 11:20 21-11 J. Tatum enters the game for M. Smart
+3 11:20 21-11 J. Brown misses free throw 3 of 3
+3 11:20 21-11 Offensive rebound by Team
+3 11:02 21-11 D. Schröder misses 3-pt jump shot from 26 ft
+3 11:01 21-11 Defensive rebound by A. Nesmith
+3 10:55 21-11 J. Tatum misses 2-pt layup from 2 ft (block by A. Horford)
+3 10:52 21-11 Offensive rebound by J. Brown
+3 10:52 21-11 J. Brown misses 3-pt jump shot from 25 ft
+3 10:51 21-11 Defensive rebound by J. Brown
+3 10:40 21-11 J. Brown misses 2-pt jump shot from 10 ft
+3 10:38 21-11 Offensive rebound by G. Williams
+3 10:38 21-11 J. Tatum misses 2-pt layup at rim
+3 10:37 21-11 Offensive rebound by R. Williams
+3 10:35 21-11 R. Williams misses 3-pt jump shot from 24 ft
+3 10:31 21-11 Defensive rebound by J. Tatum
+3 10:31 21-11 J. Brown misses 2-pt layup from 3 ft
+3 10:28 21-11 Offensive rebound by Team
+3 10:27 21-11 R. Williams misses 2-pt layup at rim
+3 10:26 21-11 Defensive rebound by J. Randle
+3 10:21 21-11 J. Randle makes 2-pt layup from 2 ft (assist by M. Smart)
+3 10:07 21-11 J. Randle makes 2-pt layup from 2 ft
+3 10:04 21-11 R. Williams misses 2-pt layup from 3 ft
+3 10:01 21-11 Defensive rebound by A. Horford
+3 10:00 21-11 G. Williams misses 2-pt layup from 3 ft (block by J. Randle)
+3 10:00 21-11 Offensive rebound by Team
+3 10:00 21-11 Technical foul by R. Williams
+3 10:00 21-11 A. Horford misses technical free throw 1 of 2
+3 10:00 21-11 Offensive rebound by Team
+3 10:00 21-11 Loose ball foul by J. Brown (drawn by J. Brown)
+3 10:00 21-11 J. Brown misses technical free throw 2 of 2
+3 10:00 21-11 Defensive rebound by A. Horford
+3 9:55 21-11 P. Pritchard misses 2-pt layup from 4 ft
+3 9:53 21-11 Offensive rebound by J. Tatum
+3 9:53 21-11 J. Tatum misses 2-pt layup from 2 ft
+3 9:51 21-11 Defensive rebound by R. Williams
+3 9:41 23-11 J. Brown makes 3-pt jump shot from 28 ft (assist by A. Nesmith)
+3 9:25 23-11 J. Brown misses 3-pt jump shot from 24 ft
+3 9:23 23-11 Offensive rebound by Team
+3 9:24 23-11 D. Schröder misses 2-pt layup at rim
+3 9:20 23-11 Defensive rebound by J. Tatum
+3 9:19 23-11 Personal foul by R. Williams (drawn by G. Williams)
+3 9:11 23-11 D. Schröder misses 2-pt layup from 2 ft
+3 9:12 23-11 Defensive rebound by P. Pritchard
+3 9:04 23-11 J. Tatum misses 3-pt jump shot from 26 ft3 9:11 23-11 D. Schröder misses 2-pt layup from 2 ft
+3 9:12 23-11 Defensive rebound by P. Pritchard
+3 9:04 23-11 J. Tatum misses 3-pt jump shot from 26 ft
+3 9:02 23-11 Defensive rebound by D. Schröder
+3 8:55 23-11 Shooting foul by D. Schröder (drawn by S. Dinwiddie)
+3 8:55 24-11 S. Dinwiddie makes free throw 1 of 1
+3 8:43 24-13 D. Schröder makes 2-pt layup from 2 ft (assist by A. Nesmith)
+3 8:24 24-13 A. Horford misses 3-pt jump shot from 27 ft
+3 8:21 24-13 Defensive rebound by G. Williams
+3 8:13 24-13 Personal foul by D. Schröder (drawn by J. Richardson)
+3 8:13 24-13 S. Dinwiddie misses free throw 1 of 2
+3 8:13 24-13 Offensive rebound by Team
+3 8:13 24-14 J. Richardson makes free throw 2 of 2
+3 7:51 24-14 Turnover by D. Schröder (lost ball; steal by P. Pritchard)
+3 7:51 24-14 M. Smart enters the game for J. Richardson
+3 7:51 24-14 A. Nesmith misses 2-pt jump shot from 18 ft
+3 7:47 24-14 Defensive rebound by J. Tatum
+3 7:42 24-14 Shooting foul by A. Horford (drawn by J. Richardson)
+3 7:42 25-14 J. Richardson makes free throw 1 of 2
+3 7:42 25-14 J. Richardson makes free throw 2 of 2
+3 7:25 25-14 J. Brown misses 2-pt jump shot from 14 ft
+3 7:24 25-14 Defensive rebound by A. Nesmith
+3 7:24 25-14 A. Nesmith misses 2-pt layup from 5 ft
+3 7:20 25-14 Offensive rebound by J. Richardson
+3 7:17 25-14 Turnover by J. Richardson (bad pass; steal by G. Williams)
+3 7:05 25-14 M. Smart misses 3-pt jump shot from 25 ft
+3 7:02 25-14 Defensive rebound by J. Brown
+3 7:00 25-14 M. Smart misses 2-pt layup from 2 ft
+3 7:00 25-14 Offensive rebound by M. Smart
+3 7:00 25-14 R. Langford enters the game for P. Pritchard
+3 7:00 25-14 D. White enters the game for D. Schröder
+3 7:00 25-14 T. Hardaway enters the game for A. Nesmith
+3 7:00 25-14 C. Kispert enters the game for D. Schröder
+3 7:00 25-14 C. Kispert makes free throw 3 of 2
+3 6:50 25-14 J. Tatum misses 2-pt jump shot from 12 ft
+3 6:48 25-14 Defensive rebound by J. Tatum
+3 6:35 25-14 Turnover by C. Kispert (bad pass; steal by A. Horford)
+3 6:32 25-14 D. White misses 2-pt layup from 3 ft
+3 6:30 25-14 Defensive rebound by A. Nesmith
+3 6:20 25-14 Turnover by D. Schröder (lost ball; steal by P. Pritchard)
+3 6:05 25-14 Personal foul by A. Nesmith (drawn by J. Richardson)
+3 6:05 25-14 Violation by Team (delay of game)
+3 6:05 25-14 J. Tatum misses free throw 1 of 2
+3 6:05 25-14 Offensive rebound by Team
+3 6:05 25-14 J. Brown misses free throw 2 of 2
+3 6:04 25-14 Defensive rebound by J. Tatum
+3 5:56 25-14 J. Tatum misses 3-pt jump shot from 26 ft
+3 5:53 25-14 Offensive rebound by D. Schröder
+3 5:45 25-14 Personal foul by A. Nesmith (drawn by G. Williams)
+3 5:43 25-14 D. White misses 2-pt jump shot from 19 ft
+3 5:42 25-14 Offensive rebound by D. Schröder
+3 5:41 25-14 J. Richardson misses 3-pt jump shot from 26 ft
+3 5:40 25-14 Defensive rebound by J. Tatum3 5:42 25-14 Offensive rebound by D. Schröder
+3 5:41 25-14 J. Richardson misses 3-pt jump shot from 26 ft
+3 5:40 25-14 Defensive rebound by J. Tatum
+3 5:35 25-14 Turnover by J. Tatum (bad pass; steal by D. Schröder)
+3 5:22 25-14 R. Williams misses 2-pt layup from 6 ft
+3 5:20 25-14 Offensive rebound by J. Richardson
+3 5:15 25-14 J. Tatum misses 2-pt jump shot from 9 ft
+3 5:10 25-14 Defensive rebound by R. Williams
+3 5:07 25-14 Turnover by D. Schröder (bad pass; steal by D. Schröder)
+3 4:57 25-14 Personal foul by R. Williams (drawn by J. Richardson)
+3 4:57 25-14 J. Tatum misses free throw 1 of 2
+3 4:57 25-14 Offensive rebound by Team
+3 4:57 25-14 D. Schröder misses free throw 2 of 2
+3 4:55 25-14 Defensive rebound by J. Richardson
+3 4:45 27-14 J. Richardson makes 2-pt layup from 3 ft
+3 4:33 27-14 D. Schröder misses 3-pt jump shot from 24 ft
+3 4:32 27-14 Defensive rebound by M. Smart
+3 4:32 27-14 Shooting foul by D. Schröder (drawn by M. Smart)
+3 4:33 28-14 M. Smart makes free throw 1 of 2
+3 4:33 29-14 M. Smart makes free throw 2 of 2
+3 4:17 29-14 M. Smart misses 2-pt layup from 6 ft
+3 4:15 29-14 Defensive rebound by D. Schröder
+3 4:16 29-14 Turnover by M. Smart (bad pass; steal by J. Tatum)
+3 4:14 29-14 Shooting foul by J. Richardson (drawn by J. Tatum)
+3 4:15 29-14 J. Tatum misses free throw 1 of 2
+3 4:15 29-14 Offensive rebound by Team
+3 4:15 29-14 R. Williams enters the game for D. Schröder
+3 4:15 29-14 M. Smart misses free throw 2 of 2
+3 4:14 29-14 Offensive rebound by Team
+3 4:15 29-14 D. Schröder misses free throw 3 of 2
+3 4:13 29-14 Defensive rebound by M. Smart
+3 4:07 29-14 Violation by Team (kicked ball)
+3 4:07 29-14 Golden State full timeout
+3 4:07 29-14 J. Tatum misses 2-pt jump shot from 9 ft
+3 4:06 29-14 Offensive rebound by Team
+3 4:06 29-14 M. Smart misses 2-pt layup from 4 ft
+3 4:04 29-14 Defensive rebound by M. Smart
+3 4:02 29-14 D. Schröder makes 2-pt layup from 4 ft (assist by D. Schröder)
+3 4:02 29-14 Golden State full timeout
+3 4:02 29-14 Boston full timeout
+3 4:02 29-14 Violation by Team (delay of game)
+3 4:02 29-14 J. Tatum enters the game for M. Smart
+3 4:02 29-14 J. Richardson misses free throw 1 of 2
+3 4:02 29-14 Offensive rebound by Team
+3 4:02 29-14 J. Brown enters the game for R. Williams
+3 4:02 29-14 T. Ross enters the game for M. Smart
+3 4:02 29-14 J. Tatum misses free throw 2 of 2
+3 4:02 29-14 Defensive rebound by R. Williams
+3 4:02 29-14 J. Tatum misses free throw 3 of 2
+3 4:02 29-14 Defensive rebound by D. Schröder
+3 3:59 29-14 Turnover by J. Tatum (bad pass; steal by M. Smart)
+3 3:59 29-14 Turnover by D. Schröder (bad pass; steal by M. Smart)
+3 3:59 29-14 D. Schröder misses 2-pt layup from 5 ft
+3 3:59 29-14 Defensive rebound by R. Williams
+3 3:59 29-14 J. Tatum misses 2-pt layup from 6 ft
+3 3:59 29-14 Defensive rebound by M. Smart3 3:59 29-14 Defensive rebound by R. Williams
+3 3:59 29-14 J. Tatum misses 2-pt layup from 6 ft
+3 3:59 29-14 Defensive rebound by M. Smart
+3 3:59 29-14 Shooting foul by J. Tatum (drawn by A. Horford)
+3 3:59 30-14 A. Horford makes free throw 1 of 1
+3 3:41 30-14 J. Tatum misses 2-pt jump shot from 8 ft
+3 3:40 30-14 Defensive rebound by J. Brown
+3 3:24 32-14 A. Horford makes 2-pt layup from 3 ft (assist by M. Smart)
+3 3:04 32-17 J. Brown makes 2-pt layup from 2 ft
+3 2:59 32-17 Shooting foul by J. Brown (drawn by A. Horford)
+3 2:59 32-18 A. Horford makes free throw 1 of 2
+3 2:59 32-19 A. Horford makes free throw 2 of 2
+3 2:41 32-19 Turnover by J. Brown (bad pass; steal by J. Brown)
+3 2:35 32-19 Personal foul by J. Brown (drawn by D. Schröder)
+3 2:35 32-19 J. Brown misses free throw 1 of 2
+3 2:35 32-19 Offensive rebound by Team
+3 2:35 32-19 D. Schröder misses free throw 2 of 2
+3 2:35 32-19 Offensive rebound by Team
+3 2:35 32-19 Loose ball foul by T. Hardaway (drawn by D. Schröder)
+3 2:35 32-19 J. Brown misses free throw 3 of 2
+3 2:35 32-19 Offensive rebound by Team
+3 2:35 32-19 D. Schröder misses free throw 4 of 2
+3 2:31 32-19 Offensive rebound by D. Schröder
+3 2:29 32-19 Turnover by J. Brown (bad pass; steal by M. Smart)
+3 2:13 32-19 Turnover by R. Williams (out of bounds lost ball)
+3 2:13 32-19 A. Horford misses 3-pt jump shot from 24 ft
+3 2:12 32-19 Defensive rebound by J. Tatum
+3 2:09 32-19 J. Tatum makes 2-pt layup from 1 ft (assist by J. Tatum)
+3 2:06 32-19 Shooting foul by J. Brown (drawn by A. Horford)
+3 2:06 32-19 A. Horford makes free throw 1 of 2
+3 2:06 32-19 A. Horford makes free throw 2 of 2
+3 2:02 32-19 J. Brown misses 3-pt jump shot from 24 ft
+3 2:00 32-19 Offensive rebound by Team
+3 2:00 32-19 A. Horford misses 2-pt jump shot from 9 ft
+3 1:59 32-19 Defensive rebound by J. Tatum
+3 1:51 32-19 C. Kispert misses 2-pt layup from 1 ft
+3 1:48 32-19 Offensive rebound by J. Tatum
+3 1:47 32-19 J. Brown misses 2-pt layup from 2 ft
+3 1:45 32-19 Defensive rebound by J. Tatum
+3 1:36 32-19 D. Schröder misses 3-pt jump shot from 26 ft
+3 1:34 32-19 Defensive rebound by J. Tatum
+3 1:22 32-19 S. Dinwiddie misses 3-pt jump shot from 26 ft
+3 1:19 32-19 Defensive rebound by A. Horford
+3 1:02 32-19 Turnover by C. Kispert (lost ball; steal by D. Schröder)
+3 1:02 32-19 D. Schröder misses 2-pt layup from 3 ft (block by J. Brown)
+3 1:00 32-19 Defensive rebound by R. Williams
+3 1:00 32-19 Boston full timeout
+3 1:00 32-19 D. Schröder misses 2-pt layup from 2 ft
+3 1:00 32-19 Defensive rebound by A. Horford
+3 0:59 32-19 S. Dinwiddie misses 2-pt jump shot from 12 ft
+3 0:57 32-19 Defensive rebound by A. Horford
+3 0:50 32-19 Personal take foul by D. Schröder (drawn by A. Horford)
+3 0:50 32-19 Turnover by A. Horford (offensive foul)3 0:57 32-19 Defensive rebound by A. Horford
+3 0:50 32-19 Personal take foul by D. Schröder (drawn by A. Horford)
+3 0:50 32-19 Turnover by A. Horford (offensive foul)
+3 0:48 32-19 Turnover by M. Smart (bad pass; steal by M. Smart)
+3 0:43 32-19 B. Thomas misses 2-pt jump shot from 6 ft
+3 0:39 32-19 Defensive rebound by M. Smart
+3 0:27 32-19 Turnover by M. Smart (lost ball; steal by K. Anderson)
+3 0:19 32-19 D. Schröder misses 3-pt jump shot from 25 ft
+3 0:17 32-19 Defensive rebound by A. Horford
+3 0:00 32-19 D. Schröder misses 3-pt jump shot from 26 ft
+3 0:00 32-19 Defensive rebound by Team
+3 0:00 32-19 End of 3rd quarter
+4 11:45 32-19 S. Gilgeous-Alexander misses 2-pt jump shot from 15 ft
+4 11:44 32-19 Defensive rebound by A. Horford
+4 11:29 32-19 M. Smart misses 2-pt layup from 3 ft (block by J. Brown)
+4 11:26 32-19 Offensive rebound by A. Horford
+4 11:25 32-19 Turnover by M. Smart (bad pass; steal by A. Horford)
+4 11:07 32-19 Shooting foul by A. Horford (drawn by B. Thomas)
+4 11:07 32-19 B. Thomas misses free throw 1 of 2
+4 11:07 32-19 Offensive rebound by Team
+4 11:07 32-19 B. Thomas misses free throw 2 of 2
+4 11:03 32-19 Offensive rebound by Team
+4 11:03 32-19 J. Brown misses 2-pt layup from 3 ft
+4 11:01 32-19 Defensive rebound by J. Tatum
+4 10:57 32-19 Turnover by D. Schröder (bad pass; steal by A. Horford)
+4 10:40 32-19 Turnover by D. Schröder (bad pass; steal by J. Brown)
+4 10:38 32-19 R. Williams misses 2-pt jump shot from 18 ft
+4 10:35 32-19 Defensive rebound by A. Horford
+4 10:31 32-19 G. Williams misses 3-pt jump shot from 24 ft
+4 10:30 32-19 Defensive rebound by B. Thomas
+4 10:20 32-19 Shooting foul by B. Thomas (drawn by A. Horford)
+4 10:20 32-19 J. Brown misses free throw 1 of 2
+4 10:20 32-19 Offensive rebound by A. Horford
+4 10:20 32-19 A. Horford misses free throw 2 of 2
+4 10:16 32-19 Defensive rebound by D. Schröder
+4 10:16 32-19 K. Anderson misses 2-pt layup from 3 ft (block by J. Tatum)
+4 10:13 32-19 Defensive rebound by J. Brown
+4 10:09 32-19 Offensive foul by A. Horford (drawn by D. Schröder)
+4 10:09 32-19 Turnover by A. Horford (offensive foul)
+4 10:09 32-19 R. Williams enters the game for B. Thomas
+4 10:03 32-19 Turnover by M. Smart (lost ball; steal by D. Schröder)
+4 10:03 32-19 M. Smart misses 2-pt jump shot from 18 ft
+4 10:00 32-19 Defensive rebound by J. Brown
+4 9:52 32-19 J. Tatum misses 2-pt layup from 5 ft
+4 9:48 32-19 Defensive rebound by M. Smart
+4 9:34 32-19 R. Williams misses 3-pt jump shot from 24 ft
+4 9:31 32-19 Offensive rebound by D. Schröder
+4 9:27 32-19 J. Brown misses 2-pt layup at rim
+4 9:24 32-19 Defensive rebound by B. Thomas
+4 9:18 32-19 A. Horford misses 3-pt jump shot from 23 ft
+4 9:17 32-19 Offensive rebound by A. Horford
+4 9:07 32-19 D. Schröder misses 2-pt layup at rim
+4 9:07 32-19 Offensive rebound by R. Williams
+4 9:06 32-19 J. Tatum misses 2-pt layup at rim4 9:07 32-19 D. Schröder misses 2-pt layup at rim
+4 9:07 32-19 Offensive rebound by R. Williams
+4 9:06 32-19 J. Tatum misses 2-pt layup at rim
+4 9:04 32-19 Defensive rebound by A. Horford
+4 8:55 32-21 J. Brown makes 2-pt layup from 1 ft (assist by A. Horford)
+4 8:42 32-21 Violation by Team (kicked ball)
+4 8:38 32-21 K. Anderson enters the game for D. Schröder
+4 8:37 32-21 G. Williams enters the game for P. Pritchard
+4 8:38 32-21 T. Young enters the game for J. Tatum
+4 8:35 32-21 Shooting foul by M. Smart (drawn by J. Tatum)
+4 8:35 33-21 J. Tatum makes free throw 1 of 2
+4 8:35 34-21 J. Tatum makes free throw 2 of 2
+4 8:22 34-21 D. Schröder misses 3-pt jump shot from 28 ft
+4 8:19 34-21 Defensive rebound by M. Smart
+4 8:02 34-21 T. Young misses 3-pt jump shot from 26 ft
+4 7:58 34-21 Defensive rebound by T. Young
+4 7:44 34-21 T. Young misses 2-pt jump shot from 7 ft
+4 7:41 34-21 Defensive rebound by K. Anderson
+4 7:40 34-21 Shooting foul by A. Horford (drawn by A. Horford)
+4 7:40 34-21 A. Horford misses free throw 1 of 2
+4 7:40 34-21 Offensive rebound by Team
+4 7:40 34-21 J. Tatum misses free throw 2 of 2
+4 7:37 34-21 Offensive rebound by M. Smart
+4 7:37 34-21 Turnover by Team (shot clock)
+4 7:35 34-21 T. Young misses 3-pt jump shot from 25 ft
+4 7:33 34-21 Defensive rebound by J. Tatum
+4 7:19 34-21 Shooting foul by A. Horford (drawn by J. Tatum)
+4 7:35 34-22 J. Tatum makes free throw 1 of 2
+4 7:35 34-22 G. Williams enters the game for A. Horford
+4 7:35 34-22 C. Osman enters the game for A. Horford
+4 7:35 34-22 C. Osman makes free throw 2 of 2
+4 7:24 34-22 Personal foul by J. Tatum (drawn by J. Richardson)
+4 7:24 34-22 A. Horford makes free throw 1 of 2
+4 7:24 34-22 A. Horford misses free throw 2 of 2
+4 7:21 34-22 Offensive rebound by Team
+4 7:21 34-22 A. Horford misses free throw 3 of 2
+4 7:17 34-22 Defensive rebound by Team
+4 7:09 34-22 Personal foul by J. Tatum (drawn by J. Richardson)
+4 7:09 34-22 G. Williams enters the game for J. Brown
+4 7:08 34-22 Turnover by J. Richardson (step out of bounds)
+4 7:07 34-22 J. Tatum misses 3-pt jump shot from 26 ft
+4 7:04 34-22 Defensive rebound by R. Williams
+4 7:02 34-22 R. Williams misses 2-pt layup from 4 ft (block by D. Schröder)
+4 7:01 34-22 Defensive rebound by G. Williams
+4 7:00 34-22 Personal foul by M. Smart (drawn by J. Tatum)
+4 6:58 34-22 R. Williams misses 2-pt layup from 3 ft
+4 6:57 34-22 Defensive rebound by J. Richardson
+4 6:49 34-22 Turnover by J. Richardson (bad pass; steal by J. Brown)
+4 6:38 34-22 Turnover by M. Smart (bad pass; steal by J. Tatum)
+4 6:27 34-22 G. Williams misses 2-pt jump shot from 17 ft
+4 6:24 34-22 Defensive rebound by J. Brown
+4 6:22 34-22 J. Brown misses 2-pt jump shot from 6 ft
+4 6:21 34-22 Defensive rebound by R. Williams
+4 6:21 34-22 Shooting foul by D. Schröder (drawn by A. Horford)4 6:22 34-22 J. Brown misses 2-pt jump shot from 6 ft
+4 6:21 34-22 Defensive rebound by R. Williams
+4 6:21 34-22 Shooting foul by D. Schröder (drawn by A. Horford)
+4 6:21 34-22 J. Tatum enters the game for D. Schröder
+4 6:21 34-22 A. Horford misses free throw 1 of 2
+4 6:21 34-22 Offensive rebound by Team
+4 6:21 34-22 G. Williams enters the game for M. Smart
+4 6:21 34-22 M. Smart misses free throw 2 of 2
+4 6:19 34-22 Defensive rebound by J. Tatum
+4 6:06 34-22 J. Brown misses 2-pt jump shot from 14 ft
+4 6:03 34-22 Defensive rebound by Team
+4 5:52 34-22 Turnover by J. Tatum (lost ball; steal by G. Williams)
+4 5:48 34-22 R. Williams misses 2-pt layup from 3 ft (block by A. Horford)
+4 5:44 34-22 Offensive rebound by R. Williams
+4 5:43 34-22 J. Brown misses 2-pt layup at rim
+4 5:40 34-22 Defensive rebound by G. Williams
+4 5:31 34-22 J. Tatum misses 2-pt jump shot from 14 ft
+4 5:29 34-22 Defensive rebound by J. Brown
+4 5:23 34-22 J. Tatum misses 2-pt layup from 2 ft
+4 5:21 34-22 Defensive rebound by A. Horford
+4 5:14 34-22 J. Brown misses 2-pt jump shot from 10 ft
+4 5:12 34-22 Offensive rebound by R. Williams
+4 5:07 34-22 R. Williams misses 2-pt layup from 3 ft
+4 5:05 34-22 Offensive rebound by A. Horford
+4 5:05 34-22 J. Tatum misses 2-pt jump shot from 17 ft
+4 5:03 34-22 Defensive rebound by J. Brown
+4 5:02 34-22 Shooting foul by J. Tatum (drawn by M. Smart)
+4 5:05 34-22 M. Smart misses free throw 1 of 2
+4 5:05 34-22 Offensive rebound by A. Horford
+4 5:05 34-22 A. Horford misses free throw 2 of 2
+4 5:02 34-22 Offensive rebound by A. Horford
+4 5:02 34-22 A. Horford misses 2-pt layup from 2 ft
+4 5:02 34-22 Offensive rebound by Team
+4 5:02 34-22 A. Horford misses 2-pt layup at rim
+4 5:01 34-22 Defensive rebound by J. Brown
+4 5:01 34-22 Boston full timeout
+4 5:01 34-22 O. Porter enters the game for J. Brown
+4 5:01 34-22 J. Brown misses 2-pt layup from 2 ft
+4 5:01 34-22 Offensive rebound by Team
+4 5:01 34-22 D. Schröder enters the game for A. Horford
+4 5:01 34-22 M. Smart misses 3-pt jump shot from 26 ft
+4 5:00 34-22 Defensive rebound by R. Williams
+4 4:51 34-22 R. Williams misses 3-pt jump shot from 27 ft
+4 4:46 34-22 Defensive rebound by J. Brown
+4 4:39 34-22 J. Brown misses 2-pt layup from 3 ft
+4 4:39 34-22 Defensive rebound by D. Schröder
+4 4:36 34-22 R. Williams misses 2-pt layup from 3 ft
+4 4:33 34-22 Defensive rebound by J. Brown
+4 4:29 34-22 J. Tatum misses 2-pt layup from 2 ft
+4 4:27 34-22 Offensive rebound by A. Horford
+4 4:23 34-22 J. Brown misses 2-pt layup from 3 ft
+4 4:23 34-22 Defensive rebound by A. Horford
+4 4:12 34-22 J. Brown misses 2-pt layup from 3 ft
+4 4:07 34-22 Offensive rebound by A. Horford
+4 4:06 34-22 Personal take foul by J. Brown (drawn by A. Horford)
+4 4:06 34-22 J. Brown misses 2-pt jump shot from 13 ft
+4 4:05 34-22 Defensive rebound by J. Brown4 4:06 34-22 Personal take foul by J. Brown (drawn by A. Horford)
+4 4:06 34-22 J. Brown misses 2-pt jump shot from 13 ft
+4 4:05 34-22 Defensive rebound by J. Brown
+4 3:57 34-22 Turnover by J. Brown (bad pass)
+4 3:45 34-22 J. Brown misses 3-pt jump shot from 25 ft
+4 3:41 34-22 Offensive rebound by J. Brown
+4 3:41 34-22 J. Brown misses 2-pt jump shot from 11 ft
+4 3:40 34-22 Defensive rebound by J. Tatum
+4 3:36 34-22 A. Horford misses 2-pt jump shot from 18 ft
+4 3:33 34-22 Defensive rebound by J. Tatum
+4 3:28 34-22 Turnover by J. Tatum (lost ball; steal by J. Brown)
+4 3:23 34-22 J. Tatum misses 3-pt jump shot from 26 ft
+4 3:20 34-22 Defensive rebound by Team
+4 3:05 34-22 J. Brown misses 2-pt layup from 3 ft
+4 3:02 34-22 Defensive rebound by M. Smart
+4 2:59 34-22 J. Brown misses 2-pt layup from 1 ft
+4 2:57 34-22 Defensive rebound by R. Williams
+4 2:51 34-22 D. Schröder misses 3-pt jump shot from 26 ft
+4 2:50 34-22 Defensive rebound by M. Smart
+4 2:38 34-22 J. Tatum misses 2-pt layup from 2 ft
+4 2:35 34-22 Offensive rebound by R. Williams
+4 2:36 34-22 A. Horford misses 2-pt jump shot from 15 ft
+4 2:33 34-22 Defensive rebound by R. Williams
+4 2:34 34-22 Offensive foul by A. Horford (drawn by A. Horford)
+4 2:34 34-22 Turnover by A. Horford (offensive foul)
+4 2:30 34-22 Golden State full timeout
+4 2:30 34-22 A. Horford misses free throw 1 of 2
+4 2:30 34-22 Offensive rebound by J. Tatum
+4 2:30 34-22 J. Brown misses free throw 2 of 2
+4 2:26 34-22 Defensive rebound by T. Rozier
+4 2:23 34-22 Personal foul by J. Tatum (drawn by R. Williams)
+4 2:13 34-22 Turnover by D. Schröder (offensive foul)
+4 2:09 34-22 J. Brown misses 2-pt layup from 5 ft
+4 2:06 34-22 Defensive rebound by J. Brown
+4 2:06 34-22 Offensive foul by J. Tatum (drawn by A. Horford)
+4 2:06 34-22 Turnover by J. Brown (offensive foul)
+4 2:04 34-22 Offensive foul by A. Horford (drawn by M. Smart)
+4 2:04 34-22 Turnover by A. Horford (offensive foul)
+4 2:04 34-22 J. Tatum misses free throw 1 of 1
+4 2:04 34-22 Defensive rebound by J. Tatum
+4 2:01 34-22 Personal foul by J. Brown (drawn by M. Smart)
+4 2:01 34-22 M. Smart misses free throw 2 of 2
+4 1:59 34-22 Defensive rebound by D. Schröder
+4 1:47 34-22 M. Smart misses 3-pt jump shot from 26 ft
+4 1:44 34-22 Defensive rebound by J. Brown
+4 1:33 34-22 Turnover by J. Brown (bad pass; steal by A. Horford)
+4 1:32 34-22 J. Brown misses 2-pt layup from 3 ft
+4 1:29 34-22 Defensive rebound by A. Horford
+4 1:20 34-22 J. Brown misses 2-pt layup from 4 ft
+4 1:13 34-22 Offensive rebound by J. Brown
+4 1:08 34-22 Turnover by A. Horford (bad pass; steal by M. Smart)
+4 1:07 34-22 Personal foul by M. Smart (drawn by J. Tatum)
+4 1:08 34-22 J. Brown misses free throw 1 of 2
+4 1:06 34-22 Offensive rebound by M. Smart
+4 1:07 34-22 J. Brown misses 2-pt jump shot from 13 ft
+4 1:06 34-22 Defensive rebound by J. Tatum4 1:06 34-22 Offensive rebound by M. Smart
+4 1:07 34-22 J. Brown misses 2-pt jump shot from 13 ft
+4 1:06 34-22 Defensive rebound by J. Tatum
+4 1:00 34-22 Shooting foul by N. Bjelica (drawn by G. Payton)
+4 1:00 35-22 G. Payton makes free throw 1 of 2
+4 1:00 35-22 G. Payton misses free throw 2 of 2
+4 0:58 35-22 Defensive rebound by M. Smart
+4 0:56 35-22 G. Payton misses 2-pt layup from 3 ft (block by G. Payton)
+4 0:53 35-22 Offensive rebound by M. Smart
+4 0:51 35-23 M. Smart makes 2-pt layup from 3 ft
+4 0:45 35-23 Personal foul by J. Brown (drawn by A. Wiggins)
+4 0:45 35-23 Golden State full timeout
+4 0:45 35-23 K. Looney enters the game for K. Looney
+4 0:45 35-23 M. Robinson enters the game for J. Holiday
+4 0:35 35-23 J. Clarkson enters the game for M. Smart
+4 0:35 35-23 J. Brown misses free throw 1 of 2
+4 0:35 35-23 Defensive rebound by M. Robinson
+4 0:35 35-23 Turnover by J. Brown (lost ball; steal by J. Brown)
+4 0:35 35-23 Technical foul by K. Looney
+4 0:35 35-23 J. Clarkson misses technical free throw
+4 0:35 35-23 Offensive rebound by Team
+4 0:35 35-23 Loose ball foul by N. Bjelica (drawn by M. Robinson)
+4 0:35 35-23 M. Robinson misses technical free throw
+4 0:35 35-23 Defensive rebound by M. Robinson
+4 0:35 35-23 R. Rubio enters the game for A. Wiggins
+4 0:35 35-23 S. Curry enters the game for J. Brown
+4 0:35 35-23 J. Poole enters the game for M. Robinson
+4 0:35 35-23 J. Tatum enters the game for A. Wiggins
+4 0:35 35-23 J. Clarkson misses free throw 2 of 2
+4 0:31 35-23 Offensive rebound by A. Wiggins
+4 0:30 35-23 Personal foul by J. Clarkson (drawn by M. Moody)
+4 0:30 35-23 M. Moody makes free throw 1 of 2
+4 0:30 35-23 M. Moody makes free throw 2 of 2
+4 0:14 35-23 A. Wiggins misses 3-pt jump shot from 23 ft
+4 0:10 35-23 Defensive rebound by N. Bjelica
+4 0:09 35-23 Personal foul by M. Moody (drawn by A. Wiggins)
+4 0:09 35-23 J. Brown misses free throw 1 of 2
+4 0:09 35-23 Offensive rebound by Team
+4 0:09 35-23 Loose ball foul by J. Kuminga (drawn by A. Wiggins)
+4 0:09 35-23 D. Gallinari enters the game for M. Moody
+4 0:09 35-23 M. Moody misses free throw 2 of 2
+4 0:09 35-23 Defensive rebound by S. Curry
+4 0:08 35-23 J. Randle enters the game for A. Wiggins
+4 0:07 35-23 N. Bjelica misses free throw 3 of 2
+4 0:03 35-23 Defensive rebound by J. Poole
+4 0:00 35-23 S. Curry misses 2-pt jump shot from 13 ft
+4 0:00 35-23 Offensive rebound by A. Wiggins
+4 0:00 35-23 J. Randle misses 2-pt layup at rim
+4 0:00 35-23 Offensive rebound by Team
+4 0:00 35-23 End of Game
