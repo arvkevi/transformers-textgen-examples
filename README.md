@@ -2,6 +2,8 @@
 
 This repository contains two examples of how to use the [transformers](https://huggingface.co/docs/transformers/index) library to generate text using a pretrained model (distilgpt2). One model is fine-tuned on the [Python Bytes podcast](https://pythonbytes.fm/) transcripts. The other model is fine-tuned on play-by-play descriptions from NBA basketball games.
 
+Contributions are welcome, it could be useful to catalog examples of how people are using transformers to generate text. Please feel free to open an issue or PR.
+
 ## Steps to generate text
 
 1. Identify text generation tasks (each subfolder).
@@ -9,11 +11,11 @@ This repository contains two examples of how to use the [transformers](https://h
 3. Fine-tune the casaul language model on Google colab (free GPUs speed this step up significantly) and push the fine-tuned model to HuggingFace Hub.
 4. Generate text by loading the model from the HuggingFace model Hub.
 
-# Example outputs
+## Example outputs
 
 Full outputs can be found in the subfolders for each task, but here are some examples:
 
-## Python Bytes
+### Python Bytes
 
 This is not affiliated with the Python Bytes podcast in any way.
 
@@ -43,7 +45,7 @@ fastapi is a great new web framework to easily build web APIs. So if you want to
  
 ```
 
-## NBA Game play-by-play
+### NBA Game play-by-play
 
 Generated text from a model fine-tuned on the play-by-play descriptions from the Boston Celtics and Golden State Warriors during the 2021-2022 NBA season.  
 
