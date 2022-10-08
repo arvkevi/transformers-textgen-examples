@@ -1,13 +1,17 @@
 # Text generation with transformers
 
-1. Identify text generation tasks (subfolders).
-2. Process the text into a format suitable for text generation via distilgpt2.
-3. Fine-tuning the casaul language model on Google colab.
-4. Generate text by loading the model from the HuggingFace model hub.
+This repository contains two examples of how to use the [transformers](https://huggingface.co/docs/transformers/index) library to generate text using a pretrained model (distil-gpt2). One model is fine-tuned on the [Python Bytes podcast](https://pythonbytes.fm/) transcripts. The other model is fine-tuned on play-by-play descriptions from NBA basketball games.
+
+## Steps to generate text
+
+1. Identify text generation tasks (each subfolder).
+2. Find and process the text into a format suitable for text generation via distilgpt2.
+3. Fine-tune the casaul language model on Google colab (free GPUs speed this step up significantly) and push the fine-tuned model to HuggingFace Hub.
+4. Generate text by loading the model from the HuggingFace model Hub.
 
 # Example outputs
 
-Full outputs can be found in the subfolders for each task.
+Full outputs can be found in the subfolders for each task, but here are some examples:
 
 ## Python Bytes
 
