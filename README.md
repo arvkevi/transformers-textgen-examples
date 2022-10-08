@@ -1,6 +1,6 @@
 # Text generation with transformers
 
-This repository contains two examples of how to use the [transformers](https://huggingface.co/docs/transformers/index) library to generate text using a pretrained model (distil-gpt2). One model is fine-tuned on the [Python Bytes podcast](https://pythonbytes.fm/) transcripts. The other model is fine-tuned on play-by-play descriptions from NBA basketball games.
+This repository contains two examples of how to use the [transformers](https://huggingface.co/docs/transformers/index) library to generate text using a pretrained model (distilgpt2). One model is fine-tuned on the [Python Bytes podcast](https://pythonbytes.fm/) transcripts. The other model is fine-tuned on play-by-play descriptions from NBA basketball games.
 
 ## Steps to generate text
 
